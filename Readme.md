@@ -39,4 +39,4 @@ npm run lint:fix
 
 License & Copyright
 
-© Radium Rocket "Become a Software Professional 2023"
+© Radium Rocket "Become a Software Professional 2023".
