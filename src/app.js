@@ -7,6 +7,7 @@ const app = express();
 
 app.use(fileSizeManage);
 app.use(cors());
+app.options('*', cors());
 app.use(express.json());
 app.use('/api', router);
 
